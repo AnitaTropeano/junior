@@ -1,0 +1,25 @@
+/* ejercicios 11, 12, 13, 14 y 15 */
+
+p
+{
+    size: 25px;
+
+}
+img
+{
+    display:block;
+    margin:auto;
+
+}
+footer
+{
+    background-color: darkgray;
+    color:white
+}
+h1{
+    text-align: center;
+}
+*
+{
+    font-family: 'Courier New', Courier, monospace;
+}
